@@ -1,0 +1,9 @@
+{
+  "id": "scan-card-box",
+  "name": "Scan Card Box",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "A card box for chart-scanning story elements: create element cards with structured frontmatter, browse/filter them, and draw random combinations for new story pitches.",
+  "author": "121212165",
+  "isDesktopOnly": true
+}
